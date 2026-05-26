@@ -67,6 +67,10 @@ sdk.dir=/home/username here/Android/Sdk
 java -version
 ```
 
+# apks
+
+if you want to try using these apks built from pure LineageOS source, they are available in the releases page.
+
 # credits
 - The LineageOS Team
 - marcone
