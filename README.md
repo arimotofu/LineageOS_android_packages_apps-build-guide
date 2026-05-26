@@ -56,7 +56,7 @@ Windows:
 ```bash
 sdk.dir=C:\Users\username here\AppData\Local\Android\Sdk
 ```
-Linux:
+Linux/MacOS:
 ```bash
 sdk.dir=/home/username here/Android/Sdk
 ```
@@ -76,3 +76,8 @@ java -version
 - marcone
 - patrickfav
 - The Adoptium Working Group
+
+---
+notes from arimotofu:
+
+*i can't guarantee if these works on Linux/MacOS so feel free to try and commit changes 
