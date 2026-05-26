@@ -61,7 +61,7 @@ sdk.dir=/home/username here/Android/Sdk
 
 ### Java version mismatch
 
-- ensure environment variables point to OpenJDK 17 or 21.
+- ensure environment variables point to TermurinJDK 8, 11, 17 or 21.
 - in the terminal, check the active version:
 ```bash
 java -version
