@@ -10,7 +10,7 @@ to get started, you'll need:
 - [SDK build tools](https://developer.android.com/tools/releases/build-tools): skip if you have Android Studio installed
 - [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer): crucial for signing the final outputs
 
-# how to build
+# how to build for Kotlin
 1. clone the repository
 
 only clone repos that uses build.gradle.kts. if it has Android.bp, it requires the full AOSP build system and will not work standalone with this guide.
